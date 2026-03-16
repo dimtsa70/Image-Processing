@@ -1,5 +1,4 @@
 
-package ce326.hw3;
 
 import java.awt.*;
 import java.awt.image.*;
