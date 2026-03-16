@@ -1,4 +1,4 @@
-package ce326.hw3;
+
 
 public class RGBPixel {
     private int pixel;
