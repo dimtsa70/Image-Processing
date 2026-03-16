@@ -1,5 +1,5 @@
 
-package ce326.hw3;
+
 
 //Exceprions gia mh ypostirizomena format eikonwn
 public class UnsupportedFileFormatException extends java.lang.Exception {
